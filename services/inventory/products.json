@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro.png"
+    },
+    {
+        "id": 2,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro2.png"
+    },
+    {
+        "id": 3,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro3.png"
+    },
+    {
+        "id": 3,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro4.png"
+    },
+    {
+        "id": 4,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro4.png"
+    },
+    {
+        "id": 5,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro5.png"
+    },
+    {
+        "id": 6,
+        "name": "nome do livro",
+        "author": "autor do livro",
+        "quantity": 10,
+        "price": 21.12,
+        "photo": "/img/imagemlivro6.png"
+    }
+]
