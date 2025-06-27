@@ -1,8 +1,8 @@
 // importa a lib gRPC para criar o .proto
-const grpc = require('@gpc/protoloader');
+const grpc = require('@grpc/proto-loader');
 
 // importar a lib para carregar o proto
-const protoLoader = require('@gpc/protoloader');
+const protoLoader = require('@grpc/proto-loader');
 
 // carrega e processa o arquivo shipping.proto, que define o serviço e as mensagens
 const packageDefinition = protoLoader.loadSync('proto/shipping.proto', {
